@@ -1,0 +1,11 @@
+[33mcommit bb24d8b38a16270aaa7aa2656b83cefde97b812e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: xox107 <er.thirukumaran@gmail.com>
+Date:   Fri Aug 30 17:13:13 2024 +0530
+
+    added databases.py
+
+[33mcommit 47f554a9f1d17b0702cd908fe8ec0aa01404d427[m
+Author: xox107 <er.thirukumaran@gmail.com>
+Date:   Fri Aug 30 17:10:19 2024 +0530
+
+    Initial commit
